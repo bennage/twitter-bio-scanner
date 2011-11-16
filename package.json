@@ -1,0 +1,9 @@
+{ "name" : "twitter-bioscanner"
+, "private": true
+, "version" : "0.0.1"
+, "author" : "Christopher Bennage <christopher@bennage.com>"
+, "dependencies": {
+    "ntwitter": ">=0.2.9"
+  }
+, "engine": "node 0.4.7"
+}
