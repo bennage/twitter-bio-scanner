@@ -1,5 +1,5 @@
 This is my shameless ripoff of 
-https://github.com/bennage/twitter-bio-scanner
+https://github.com/johnsheehan/twitter-bio-scanner
 
 Especially the list of stop words! Thanks John.
 
